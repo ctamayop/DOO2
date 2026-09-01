@@ -33,27 +33,6 @@ Despachable: define el método despachar().
 Cancelable: define el método cancelar().
 Rastreable: define el método verHistorial().
 
-Estructura del proyecto
-SpeedFastApp/
-├── src/
-│   └── main/
-│       └── java/
-│           └── cl/
-│               └── speedfast/
-│                   ├── app/
-│                   │   └── Main.java
-│                   ├── interfaces/
-│                   │   ├── Cancelable.java
-│                   │   ├── Despachable.java
-│                   │   └── Rastreable.java
-│                   ├── model/
-│                   │   ├── EstadoPedido.java
-│                   │   ├── Pedido.java
-│                   │   ├── PedidoComida.java
-│                   │   ├── PedidoEncomienda.java
-│                   │   └── PedidoExpress.java
-│                   └── service/
-│                       └── ControladorDeEnvios.java
-├── pom.xml
-└── .gitignore
+
+
 
